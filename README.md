@@ -10,7 +10,7 @@
 
 I'm a passionate Full Stack Developer with hands-on experience building scalable web and mobile applications. My current focus is on creating powerful backend systems and seamless frontend interfaces using technologies like Django, Django REST Framework, Node.js, React, and React Native.
 
-- 🔭 Currently building: **Flowventory** – a powerful inventory management SaaS
+- 🔭 Currently building: **FlowDesk** – a powerful all in one management SaaS
 - 🧠 Learning more about: **AI integration**, **feature engineering**, and **business systems**
 - 💡 Exploring: Startup ideas in EdTech and Physical Product Businesses
 - 📍 Based in: Bengaluru, India
