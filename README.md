@@ -12,12 +12,12 @@
 
 ### 🧑‍💻 About Me
 
-[cite_start]I am a **Full Stack Developer** with 1+ year of professional experience delivering scalable web and mobile solutions[cite: 5, 13]. [cite_start]My expertise lies in bridging the gap between complex backend logic (Django, Spring Boot) and high-performance frontend interfaces (Next.js, React Native)[cite: 6, 10, 19].
+[cite_start]I am a **Full Stack Developer** with 1+ year of professional experience delivering scalable web and mobile solutions[cite: 5]. [cite_start]My expertise lies in bridging the gap between complex backend logic and high-performance frontend interfaces[cite: 6, 10].
 
 - [cite_start]🔭 **Currently at:** Pegasus Consulting, architecting educational SaaS and modular ERPs[cite: 14, 18, 23].
-- [cite_start]🧠 **Latest Focus:** LLM Fine-Tuning and Generative AI integration (Gemini 2.5 Flash)[cite: 11, 27, 29].
-- 💡 **Passionate about:** Local-First software, Vertical SaaS, and Offline-Sync architectures.
-- 🤝 **Open to:** High-impact collaborations, Technical discussions, and Scalable Product builds.
+- [cite_start]🧠 **Latest Focus:** LLM Fine-Tuning and Generative AI integration using Gemini 2.5 Flash[cite: 11, 29].
+- 💡 **Passionate about:** Vertical SaaS, local-first architectures, and offline-sync capabilities.
+- 🤝 **Open to:** High-impact collaborations, technical discussions, and scalable product builds.
 
 ---
 
@@ -44,8 +44,8 @@
 
 ### 🚀 Featured Projects
 
-- [cite_start]**[PitchOS](https://github.com/aftabnadeem)**: A production-grade AI CRM using **Gemini 2.5 Flash** to automate personalized sales outreach[cite: 26, 27, 29]. [cite_start]Built with React Native & Supabase Realtime[cite: 27, 30].
-- [cite_start]**[IssueHub](https://github.com/aftabnadeem)**: A lightweight Jira alternative featuring a Kanban system and role-based access, built with **Spring Boot** and React[cite: 33, 34, 35].
+- [cite_start]**[PitchOS](https://github.com/aftabnadeem)**: A production-grade AI CRM using **Gemini 2.5 Flash** to automate personalized sales outreach[cite: 26, 29]. [cite_start]Built with React Native & Supabase Realtime[cite: 27, 30].
+- [cite_start]**[IssueHub](https://github.com/aftabnadeem)**: A lightweight Jira alternative featuring a Kanban system and role-based access, built with **Spring Boot** and React[cite: 33, 35].
 - [cite_start]**Educational SaaS**: Architected a platform with **OCR-based image reading** and automated Q&A generation via fine-tuned LLMs[cite: 18].
 
 ---
