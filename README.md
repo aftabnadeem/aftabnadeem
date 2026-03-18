@@ -12,11 +12,11 @@
 
 ### 🧑‍💻 About Me
 
-[cite_start]I am a **Full Stack Developer** with 1+ year of professional experience delivering scalable web and mobile solutions[cite: 5]. [cite_start]My expertise lies in bridging the gap between complex backend logic and high-performance frontend interfaces[cite: 6, 10].
+[cite_start]I am a **Full Stack Developer** with 1+ year of professional experience delivering scalable web and mobile solutions[cite: 5, 13]. [cite_start]My expertise lies in bridging the gap between complex backend logic and high-performance frontend interfaces[cite: 6].
 
 - [cite_start]🔭 **Currently at:** Pegasus Consulting, architecting educational SaaS and modular ERPs[cite: 14, 18, 23].
-- [cite_start]🧠 **Latest Focus:** LLM Fine-Tuning and Generative AI integration using Gemini 2.5 Flash[cite: 11, 29].
-- 💡 **Passionate about:** Vertical SaaS, local-first architectures, and offline-sync capabilities.
+- [cite_start]🧠 **Latest Focus:** LLM Fine-Tuning and Generative AI integration using Gemini 2.5 Flash[cite: 6, 27, 29].
+- [cite_start]💡 **Passionate about:** Vertical SaaS, local-first architectures, and offline-sync capabilities[cite: 5].
 - 🤝 **Open to:** High-impact collaborations, technical discussions, and scalable product builds.
 
 ---
@@ -45,7 +45,7 @@
 ### 🚀 Featured Projects
 
 - [cite_start]**[PitchOS](https://github.com/aftabnadeem)**: A production-grade AI CRM using **Gemini 2.5 Flash** to automate personalized sales outreach[cite: 26, 29]. [cite_start]Built with React Native & Supabase Realtime[cite: 27, 30].
-- [cite_start]**[IssueHub](https://github.com/aftabnadeem)**: A lightweight Jira alternative featuring a Kanban system and role-based access, built with **Spring Boot** and React[cite: 33, 35].
+- [cite_start]**[IssueHub](https://github.com/aftabnadeem)**: A lightweight Jira alternative featuring a Kanban system and role-based access control, built with **Spring Boot** and React[cite: 33, 35].
 - [cite_start]**Educational SaaS**: Architected a platform with **OCR-based image reading** and automated Q&A generation via fine-tuned LLMs[cite: 18].
 
 ---
@@ -63,7 +63,7 @@
 
 - [cite_start]📧 **Email:** [aftabnadeemnp@outlook.com](mailto:aftabnadeemnp@outlook.com) [cite: 2]
 - [cite_start]🔗 **LinkedIn:** [linkedin.com/in/aftab-nadeem-b42772256](https://www.linkedin.com/in/aftab-nadeem-b42772256) [cite: 2]
-- [cite_start]📍 **Location:** Bengaluru, India [cite: 17]
+- [cite_start]📍 **Location:** Bengaluru, India 
 
 ---
 
